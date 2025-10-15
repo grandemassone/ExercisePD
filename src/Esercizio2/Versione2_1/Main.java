@@ -1,5 +1,5 @@
 /*
-Scrivere un programma Java per inizializzare un array di 1200000 interi al valore 42. Il
+Scrivere un programma Java per inizializzare un array di 1.200.000 interi al valore 42. Il
 programma deve misurare il tempo di esecuzione e stamparlo. Implementare tre versioni:
 1. Senza creare nuovi thread (ovvero, con il solo main thread).
 2. Con 2 thread.
