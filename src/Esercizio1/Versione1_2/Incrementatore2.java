@@ -1,7 +1,7 @@
 /*
- Creando 4 thread che tutti insieme incrementano di 10000 volte il contatore, SENZA
+    Creando 4 thread che tutti insieme incrementano di 10000 volte il contatore, SENZA
 curarsi della race condition, e vedere il risultato.
- */
+*/
 
 package Esercizio1.Versione1_2;
 import Esercizio1.Counter;

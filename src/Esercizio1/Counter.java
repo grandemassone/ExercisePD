@@ -1,3 +1,7 @@
+/*
+*   Counter senza sincronizzazione
+*/
+
 package Esercizio1;
 
 public class Counter {

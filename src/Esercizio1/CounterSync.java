@@ -1,3 +1,7 @@
+/*
+    Counter con sincronizzazione
+*/
+
 package Esercizio1;
 
 public class CounterSync {
