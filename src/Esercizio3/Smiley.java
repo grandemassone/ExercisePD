@@ -30,11 +30,10 @@ public class Smiley extends Thread {
     }
 
     private void printDuePunti() throws InterruptedException {
-        System.out.print(":"); Thread.sleep(100);
+        System.out.print(";"); Thread.sleep(100);
     }
 
     public static void main(String[] args) {
         new Smiley().start(); //Thread che comprende l'intera classe
-        new Smiley().start();
     }
 }

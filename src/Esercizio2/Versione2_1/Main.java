@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();
 
-        int[] riempiArray = new int[1200000];
+        int[] riempiArray = new int[1_200_000];
 
         for (int i = 0; i < riempiArray.length; i++) {
             riempiArray[i] = 42;
